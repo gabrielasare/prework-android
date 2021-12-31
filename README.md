@@ -5,7 +5,7 @@ Submitted by Gabriel Asare
 
 ### App Description
 This is an android app that displays “Hello” to the user.
-It allows the user to change the text color of the label and the background color of the app by pressing the corresponding button.
+It allows the user to change the text color of the label and the background color of the app by pressing the corresponding button
 The user can also click the reset button o reset the app to its default display.
 
 ### App Walk-though
