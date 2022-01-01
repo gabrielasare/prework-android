@@ -10,7 +10,7 @@ The user can also click the reset button o reset the app to its default display.
 
 ### App Walk-though
 
-<img src="https://im2.ezgif.com/tmp/ezgif-2-dee0e0fcb3.gif" width=300><br>
+<img src="https://i.imgur.com/HoMXM14.gif" width=300><br>
 
 
 ### Required User Stories
