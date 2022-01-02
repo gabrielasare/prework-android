@@ -8,7 +8,7 @@ This is an android app that displays “Hello” to the user.
 It allows the user to change the text color of the label and the background color of the app by pressing the corresponding button
 The user can also click the reset button o reset the app to its default display.
 
-### App Walk-though
+### App Walk-through
 
 <img src="https://i.imgur.com/HoMXM14.gif" width=300><br>
 
